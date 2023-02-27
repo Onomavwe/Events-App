@@ -31,7 +31,7 @@ const SideItems = () => {
             <div class="absolute top-0 left-0 w-full h-[102%] group-hover:translate-y-0 translate-y-0 bg-red-600 transition-all duration-300"></div>
           </div>
           <div
-            class="bg-white/10 text-white group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+            class=" text-gray-300 group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
             href="#">
             <svg
               class="h-5 w-5 !fill-red-500 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
@@ -51,7 +51,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600 transition-colors duration-200"
@@ -71,7 +71,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
@@ -92,7 +92,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
@@ -115,7 +115,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
@@ -133,7 +133,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
@@ -150,7 +150,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
@@ -172,7 +172,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
@@ -190,7 +190,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
@@ -207,7 +207,7 @@ const SideItems = () => {
               <div class="absolute top-0 left-0 w-full h-[102%] translate-y-full group-hover:translate-y-0 bg-red-600 transition-all duration-300"></div>
             </div>
             <div
-              class="group-hover:bg-white/10 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
+              class="group-hover:bg-gray-200 w-full group-active:scale-95 self-stretch pl-2 rounded flex items-center space-x-2 transition-all duration-200 dark:group-hover:text-white dark:hover:text-white text-sm"
               href="#">
               <svg
                 class="h-5 w-5 group-hover:fill-red-600 dark:fill-gray-600  transition-colors duration-200"
