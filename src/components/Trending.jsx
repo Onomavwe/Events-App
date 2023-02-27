@@ -60,6 +60,12 @@ const Trending = () => {
                 Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
               </p>
             </Card>
+            <div>
+              <img
+                class="w-10 h-10 rounded-t-30% object-cover"
+                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
+                alt="Jese Leos avatar"></img>
+            </div>
           </div>
         </div>
       </div>

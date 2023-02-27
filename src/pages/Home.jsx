@@ -1,6 +1,6 @@
 import React from 'react'
 import Events from '../components/events';
-import Extras from '../components/Extras';
+import Extras from '../components/Extras'; 
 import Footer from '../components/Footer';
 import Hero from '../components/Hero';
 import Topbar from "../components/Topbar";
