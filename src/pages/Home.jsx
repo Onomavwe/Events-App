@@ -3,13 +3,13 @@ import Events from '../components/events';
 import Extras from '../components/Extras'; 
 import Footer from '../components/Footer';
 import Hero from '../components/Hero';
-import Topbar from "../components/Topbar";
+import Navbar from "../components/Navbar";
 import Trending from '../components/Trending';
 
 const Home = () => {
   return (
     <>
-      <Topbar />
+      <Navbar />
       <Hero />
       <Trending />
       <Events />
