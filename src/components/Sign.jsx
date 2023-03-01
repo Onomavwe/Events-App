@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export default function Sign(props) {
   return (
     <div>
-      <div className="flex flex-wrap justify-center mt-40">
+      <div className="flex flex-wrap justify-center mt-40 sm:mt-20">
         <div className="w-full max-w-lg">
           <form action="" className="shadow-md bg-white rounded px-12 pt-16 pb-16 mb-4">
             <div className="mb-6">

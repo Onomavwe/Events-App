@@ -1,4 +1,7 @@
 import React from "react";
+import { AiOutlineHome} from "react-icons/ai";
+import { IoIosPeople } from "react-icons/io";
+import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   return (
@@ -6,9 +9,6 @@ const Sidebar = () => {
       {/* <!-- component --> */}
       <div className="flex flex-row justify-space-between gap-3">
         <aside className="w-64 bg-gray-300 dark:bg-gray-900 min-h-full flex flex-col items-center pt-5 pb-2 space-y-7">
-          <div className="border border-red-700">
-            <p>This is the area for the nav</p>
-          </div>
           <div>
             <div>
               <a href="https://flowbite.com" className="flex items-center">
@@ -224,9 +224,59 @@ const Sidebar = () => {
             </div>
           </div>
         </aside>
-        <div className="flex-1 flex flex-col mr-4 bg-gray-300 dark:bg-gray-900">
-          <div className="px-67 py-10 border border-red-700 w-min-full h-min-full bg-gray-400">
-            <p>Where is it?</p>
+        <div className="flex-1 flex flex-col mr-4 bg-gray-400 dark:bg-gray-900">
+          <div className="flex justify-between items-center p-3">
+            <div>
+              <form id="search-form" className="hidden mr-3 w-full lg:inline-block">
+                <label for="search-bar" className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-gray-300">
+                  Search
+                </label>
+                <div className="relative">
+                  <div className="flex absolute inset-y-0 right-3 items-center pl-3 pointer-events-none">
+                    <svg
+                      className="w-5 h-5 text-gray-500 dark:text-gray-400"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                    </svg>
+                  </div>
+                  <input
+                    type="search"
+                    id="search-bar"
+                    className="block py-2 px-4 pl-10 w-full text-sm text-gray-900 bg-gray-300 rounded-lg border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                    placeholder="Search"
+                    required></input>
+                </div>
+              </form>
+            </div>
+          </div>
+          <div className="grid grid-cols-12 auto-rows-auto gap-x-5 gap-y-4 m-3">
+            <div className="p-2 col-span-3 flex justify-between items-center rounded-lg shadow-sm border border-gray-450 bg-gray-300">
+              <div className="flex flex-col">
+                <h3 className="pr-2 text-lg font-normal">2450+ </h3>
+                <p className="pr-2 text-lg font-normal">This is it </p>
+              </div>
+              <div className="p-2 border rounded-full bg-gray-200">
+                <IoIosPeople className="text-4xl" />
+              </div>
+            </div>
+            <div className="col-span-3 flex justify-centre items-center border border-red-600">
+              <div>
+                <p>This is it </p>
+              </div>
+            </div>
+            <div className="col-span-3 flex justify-centre items-center border border-red-600">
+              <div>
+                <p>This is it </p>
+              </div>
+            </div>
+            <div className="col-span-3 flex justify-centre items-center border border-red-600">
+              <div>
+                <p>This is it </p>
+              </div>
+            </div>
           </div>
           <div className="px-67 mt-3 border border-red-700 w-min-full h-min-full">
             <div className="flex flex-col">

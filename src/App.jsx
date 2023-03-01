@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Manage from "./pages/Manage";
 // import Create from "./pages/Create";
 import Login from "./pages/Login";
-// import Signup from "./pages/Signup";
+import Signup from "./pages/Signup";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
 
@@ -20,7 +20,7 @@ function App() {
         <Route path="manage/" element={<Manage />} />
         {/* <Route path="create/" element={<Create />} /> */}
         <Route path="login/" element={<Login />} />
-        {/* <Route path="signup/" element={<Signup />} /> */}
+        <Route path="signup/" element={<Signup />} />
         <Route path="admin/" element={<Admin />} />
       </Routes>
     </BrowserRouter>
