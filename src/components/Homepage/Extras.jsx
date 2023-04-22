@@ -12,7 +12,7 @@ const Extras = () => {
           <div className="grid gap-8 sm:grid-cols-3 lg:grid-cols-4">
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div className="relative pb-48 overflow-hidden">
-                <img className="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-1.jpg" alt="" />
+                <img className="absolute inset-0 h-full w-full object-cover" src="assets/images/event-1.jpg" alt="" />
               </div>
               <div className="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -64,7 +64,7 @@ const Extras = () => {
             </div>
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div className="relative pb-48 overflow-hidden">
-                <img className="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-2.jpg" alt="" />
+                <img className="absolute inset-0 h-full w-full object-cover" src="assets/images/event-2.jpg" alt="" />
               </div>
               <div className="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -116,7 +116,7 @@ const Extras = () => {
             </div>
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div className="relative pb-48 overflow-hidden">
-                <img className="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-5.jpg" alt="" />
+                <img className="absolute inset-0 h-full w-full object-cover" src="assets/images/event-5.jpg" alt="" />
               </div>
               <div className="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -168,7 +168,7 @@ const Extras = () => {
             </div>
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div className="relative pb-48 overflow-hidden">
-                <img className="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-3.jpg" alt="" />
+                <img className="absolute inset-0 h-full w-full object-cover" src="assets/images/event-3.jpg" alt="" />
               </div>
               <div className="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -220,7 +220,7 @@ const Extras = () => {
             </div>
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div className="relative pb-48 overflow-hidden">
-                <img className="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-6.jpg" alt="" />
+                <img className="absolute inset-0 h-full w-full object-cover" src="assets/images/event-6.jpg" alt="" />
               </div>
               <div className="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -272,7 +272,7 @@ const Extras = () => {
             </div>
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div className="relative pb-48 overflow-hidden">
-                <img className="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-7.jpg" alt="" />
+                <img className="absolute inset-0 h-full w-full object-cover" src="assets/images/event-7.jpg" alt="" />
               </div>
               <div className="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -324,7 +324,7 @@ const Extras = () => {
             </div>
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div className="relative pb-48 overflow-hidden">
-                <img className="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-1.jpg" alt="" />
+                <img className="absolute inset-0 h-full w-full object-cover" src="assets/images/event-1.jpg" alt="" />
               </div>
               <div className="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -376,7 +376,7 @@ const Extras = () => {
             </div>
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div className="relative pb-48 overflow-hidden">
-                <img className="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-2.jpg" alt="" />
+                <img className="absolute inset-0 h-full w-full object-cover" src="assets/images/event-2.jpg" alt="" />
               </div>
               <div className="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>

@@ -26,7 +26,7 @@ const Trending = () => {
             <a href="/event">
               <div class="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                 <div class="relative pb-48 overflow-hidden">
-                  <img class="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-1.jpg" alt="" />
+                  <img class="absolute inset-0 h-full w-full object-cover" src="assets/images/event-1.jpg" alt="" />
                 </div>
                 <div class="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                   <span>
@@ -73,7 +73,7 @@ const Trending = () => {
             </a>
             <div class="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div class="relative pb-48 overflow-hidden">
-                <img class="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-2.jpg" alt="" />
+                <img class="absolute inset-0 h-full w-full object-cover" src="assets/images/event-2.jpg" alt="" />
               </div>
               <div class="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -119,7 +119,7 @@ const Trending = () => {
             </div>
             <div class="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div class="relative pb-48 overflow-hidden">
-                <img class="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-3.jpg" alt="" />
+                <img class="absolute inset-0 h-full w-full object-cover" src="assets/images/event-3.jpg" alt="" />
               </div>
               <div class="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -165,7 +165,7 @@ const Trending = () => {
             </div>
             <div class="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div class="relative pb-48 overflow-hidden">
-                <img class="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-5.jpg" alt="" />
+                <img class="absolute inset-0 h-full w-full object-cover" src="assets/images/event-5.jpg" alt="" />
               </div>
               <div class="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -211,7 +211,7 @@ const Trending = () => {
             </div>
             <div class="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div class="relative pb-48 overflow-hidden">
-                <img class="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-6.jpg" alt="" />
+                <img class="absolute inset-0 h-full w-full object-cover" src="assets/images/event-6.jpg" alt="" />
               </div>
               <div class="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -257,7 +257,7 @@ const Trending = () => {
             </div>
             <div class="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div class="relative pb-48 overflow-hidden">
-                <img class="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-7.jpg" alt="" />
+                <img class="absolute inset-0 h-full w-full object-cover" src="assets/images/event-7.jpg" alt="" />
               </div>
               <div class="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -303,7 +303,7 @@ const Trending = () => {
             </div>
             <div class="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div class="relative pb-48 overflow-hidden">
-                <img class="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-1.jpg" alt="" />
+                <img class="absolute inset-0 h-full w-full object-cover" src="assets/images/event-1.jpg" alt="" />
               </div>
               <div class="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
@@ -349,7 +349,7 @@ const Trending = () => {
             </div>
             <div class="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden">
               <div class="relative pb-48 overflow-hidden">
-                <img class="absolute inset-0 h-full w-full object-cover" src="/public/assets/images/event-2.jpg" alt="" />
+                <img class="absolute inset-0 h-full w-full object-cover" src="assets/images/event-2.jpg" alt="" />
               </div>
               <div class="float-right text-gray-900 mt-[-2px] p-2 mr-3 ml-1 rounded-full border">
                 <span>
