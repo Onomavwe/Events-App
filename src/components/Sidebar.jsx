@@ -256,7 +256,7 @@ const Sidebar = () => {
             <div className="p-2 col-span-3 flex justify-between items-center rounded-lg shadow-sm border border-gray-450 bg-gray-300">
               <div className="flex flex-col">
                 <h3 className="pr-2 text-lg font-normal">2450+ </h3>
-                <p className="pr-2 text-lg font-normal">This is it </p>
+                <p className="pr-2 text-lg font-normal">Registrations </p>
               </div>
               <div className="p-2 border rounded-full bg-gray-200">
                 <IoIosPeople className="text-4xl" />

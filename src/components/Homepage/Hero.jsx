@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <section class="bg-[url(/src/assets/images/events-bg.jpg)] bg-no-repeat bg-cover bg-center bg-gray-300 bg-blend-multiply">
+    <section class="bg-[url(/public/assets/images/events-bg.jpg)] bg-no-repeat bg-cover bg-center bg-gray-300 bg-blend-multiply">
       <div class="relative py-8 px-4 mx-auto max-w-screen-xl text-white lg:py-16 xl:px-0 z-1">
         <div class="mb-6 max-w-screen-md lg:mb-0">
           <h1 class="mb-4 text-3xl font-extrabold tracking-tight leading-tight text-white md:text-5xl lg:text-6xl">Special events</h1>
